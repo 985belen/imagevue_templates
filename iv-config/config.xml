@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<imagevue>
+		<settings>
+			<startpath>/</startpath>
+			<language>chinese_simp</language>
+			<theme>default</theme>
+			<sitetitle>红木耳 -  纯净的美女图片网站，可以好好看看美女养养眼的网站</sitetitle>
+			<defaultPage>html</defaultPage>
+			<useLightview>true</useLightview>
+			<uploader>
+				<resizeDefault>true</resizeDefault>
+				<overwrite>true</overwrite>
+			</uploader>
+			<disableAdminbar>true</disableAdminbar>
+		</settings>
+		<image>
+			<slideshow>
+				<interval>3</interval>
+				<jsresize>true</jsresize>
+			</slideshow>
+		</image>
+		<menu>
+			<mainmenu>
+				<submenu_style>horizontal</submenu_style>
+				<startshow>true</startshow>
+				<folderdescription>
+					<items>title,filecount,date,description,previewimage</items>
+				</folderdescription>
+			</mainmenu>
+		</menu>
+		<misc>
+			<sharing>
+				<enabled>false</enabled>
+			</sharing>
+		</misc>
+		<mobile>
+			<toolbar>各种美女</toolbar>
+			<showFileCounters>true</showFileCounters>
+			<jqueryMobileTheme>Dark</jqueryMobileTheme>
+		</mobile>
+	</imagevue>
+</config>
